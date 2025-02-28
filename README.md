@@ -14,3 +14,5 @@ url: http://localhost:3000/dashboard
 in authorization, select `bearer token` and give the token that we got in the POST route.
 
 if token is valid, the response will say 'Welcome to Employee Dashboard!'
+
+### command to run server: `node server.js`
